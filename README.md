@@ -8,6 +8,10 @@ More info and documentation on the [project page](http://pelulamu.net/ibniz/) or
 
 **I did NOT write Ibniz**: it's been created by Ville-Matias Heikkila. This repo simply provides a version of Ibniz that's been pre-compiled and packaged into a .app, making it easy for artists and VJs to try out and use Ibniz without having to fuss with installing devtools and SDL on OSX, or even use the command line; simply download and double-click on the .app.
 
+## Download
+
+[Download v1.18](https://github.com/victorloux/ibniz-osx/archive/master.zip)
+
 ## Compatibility
 
 This has been compiled on OSX El Capitan. It *should* work on previous versions of OSX but I haven't tested that yet.
